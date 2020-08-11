@@ -5,3 +5,18 @@ Git command
 -git add .
 -git commit -m "message"
 -git push -u origin master
+
+
+-git remote add origin url
+-git remote rm origin
+
+
+-git remote show origin
+
+
+-Route
+-View
+-Controller
+-Using Template
+
+
